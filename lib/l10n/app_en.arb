@@ -1,0 +1,14 @@
+{
+  "language": "English",
+  "@language": {
+    "description": "The current Language"
+  },
+  "helloWorld": "Welcome!",
+  "@helloWorld": {
+    "description": "a programme greeting "
+  },
+  "entry": "Enter",
+  "@entry": {
+    "description": "to log into the programme"
+  }
+}
