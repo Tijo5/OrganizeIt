@@ -1,16 +1,27 @@
-# todo
+# OrganizeIt
 
-Développer une application ToDo pour la gestion d'une liste de tâches
+**OrganizeIt** is a task management application designed to help users organize and manage their to-do lists efficiently. The application is built using **Flutter** and aims to provide a clean, intuitive interface for task management.
 
+## Features
+
+- Add, update, and delete tasks
+- Set due dates and priorities for tasks
+- Mark tasks as completed
+- Organize tasks by categories or labels
+- Cross-platform support (iOS, Android, and web)
+  
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+To run this project locally, you need to have the following installed:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Flutter SDK](https://docs.flutter.dev/get-started/install)
+- [Dart SDK](https://dart.dev/get-dart)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
+
+1. Clone this repository:
+
+   ```bash
+   git clone https://github.com/your-username/OrganizeIt.git
