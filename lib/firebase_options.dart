@@ -41,8 +41,8 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDMLZC6VbZsA7fZ03uafyQ9unvZjS9FrrY',
-    appId: '1:279198086829:web:2b344ff062e582610d7824',
+    apiKey: '######use yours######',
+    appId: '###########',
     messagingSenderId: '279198086829',
     projectId: 'todoappgestion',
     authDomain: 'todoappgestion.firebaseapp.com',
